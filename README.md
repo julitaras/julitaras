@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 Mi nombre es Julieta Taras y soy desarrolladora web en Buenos Aires, Argentina.
 
-Actualmente me encuentro aprendiendo Golang y C en la facultad.
+Trabaje con C#, js, sql, html y css.
+
+Actualmente me encuentro aprendiendo Golang y C en la facultad 😎
