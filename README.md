@@ -19,4 +19,4 @@ Mi nombre es Julieta Taras y soy desarrolladora web en Buenos Aires, Argentina.
 
 Trabajé con C#, js, sql, html y css.
 
-Actualmente me encuentro aprendiendo Golang y C en la facultad 😎
+Actualmente estoy trabajando con Golang y estoy aprendiendo C en la facu 😎
