@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es Julieta Taras y soy desarrolladora web en Buenos Aires, Argentina.
+Mi nombre es Julieta Taras y soy desarrolladora de software, intento de full stack pero con preferencia en el backend :)
 
-Trabajé con C#, js, sql, html y css.
+Alguna de las cosas con las que trabaje: **C#, js, sql, html y css**.
 
-Actualmente estoy trabajando con Golang y estoy aprendiendo C en la facu 😎
+Actualmente estoy desarrollando en Go y estoy aprendiendo C en la facu 😎
