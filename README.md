@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 Mi llamo Julieta Taras, tengo 20 años, estudio Ingenieria en Informatica en la UBA y soy desarrolladora de software.
+
 Me dedico mas que nada al backend aunque me defiendo con algunas cosas de frontend. En fin, mi objetivo es seguir aprendiendo buenas practicas para el backend. Lo que va a significar mejoras a la hora de desarrollar cosas y a su vez, ir adquiriendo mas conocimientos en el area del frontend.
 
 Algunos de los lenguajes con los que trabaje: **C#, js, golang, sql, html, css**.
