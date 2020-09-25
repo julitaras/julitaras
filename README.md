@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github.com/julitaras/julitaras/blob/master/Juli.png" width="300px">
+</div>
 
-Mi nombre es Julieta Taras y soy desarrolladora de software, intento de full stack pero con preferencia en el backend :)
+Mi llamo Julieta Taras, tengo 20 años, estudio Ingenieria en Informatica en la UBA y soy desarrolladora de software.
+Me dedico mas que nada al backend aunque me defiendo con algunas cosas de frontend. En fin, mi objetivo es seguir aprendiendo buenas practicas para el backend. Lo que va a significar mejoras a la hora de desarrollar cosas y a su vez, ir adquiriendo mas conocimientos en el area del frontend.
 
-Alguna de las cosas con las que trabaje: **C#, js, sql, html y css**.
+Algunos de los lenguajes con los que trabaje: **C#, js, golang, sql, html, css**.
 
-Actualmente estoy desarrollando en Go y estoy aprendiendo C en la facu 😎
+Actualmente estoy desarrollando en Go y aprendiendo C en la facu
+
+Mi ig/tw: @juliitaras
