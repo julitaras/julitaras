@@ -27,4 +27,12 @@ Alguna de las tecnologias con las que trabaje: **C#, js, Go, sql, html, css, C, 
 
 Actualmente estoy desarrollando en Java y aprendiendo Smalltalk en la facu
 
-Mi ig/tw: @juliitaras
+<a href="https://twitter.com/JuliiTaras">
+<img align="left" alt="Julieta Taras Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=c49dff" />
+</a>
+<a href="https://www.linkedin.com/in/julieta-taras/">
+<img align="left" alt="Julieta Taras LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=c49dff" />
+</a>
+<a href="https://www.instagram.com/juliitaras/">
+<img align="left" alt="Julieta Taras Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=c49dff" />
+</a>
