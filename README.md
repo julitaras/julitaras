@@ -23,9 +23,9 @@ Mi llamo Julieta Taras, tengo 20 años, estudio Ingenieria en Informatica en la 
 Me dedico mas que nada al backend aunque me defiendo con algunas cosas de frontend.
 Mi objetivo es seguir aprendiendo buenas practicas para el backend, lo que va a significar mejoras a la hora de desarrollar cosas y a su vez, ir adquiriendo mas conocimientos en el area del frontend.
 
-Alguna de las tecnologias con las que trabaje: **C#, js, Go, sql, html, css, C**.
+Alguna de las tecnologias con las que trabaje: **C#, js, Go, sql, html, css, C, Smalltalk**.
 
-Actualmente estoy desarrollando en Java y aprendiendo Smalltalk en la facu
+Actualmente estoy desarrollando en Java y aprendiendo Oz en la facu
 
 <a href="https://twitter.com/JuliiTaras">
 <img align="left" alt="Julieta Taras Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=c49dff" />
