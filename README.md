@@ -25,7 +25,13 @@ Mi objetivo es seguir aprendiendo buenas practicas para el backend, lo que va a 
 
 Alguna de las tecnologias con las que trabaje: **C#, js, Go, sql, html, css, C, Smalltalk**.
 
-Actualmente estoy desarrollando en Java y aprendiendo Oz en la facu
+Actualmente estoy desarrollando en Java y aprendiendo Oz en la facu.
+
+---
+
+![Juli stats](https://github-readme-stats.vercel.app/api?username=julitaras&show_icons=true&hide_border=true&theme=dracula&title_color=c49dff&icon_color=c49dff)
+
+---
 
 <a href="https://twitter.com/JuliiTaras">
 <img align="left" alt="Julieta Taras Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=c49dff" />
