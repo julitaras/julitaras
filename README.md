@@ -29,8 +29,8 @@ Actualmente estoy desarrollando en Java y aprendiendo Oz en la facu.
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=julitaras&show_icons=true&hide_border=true&theme=dracula&title_color=c49dff&icon_color=c49dff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julitaras&show_icons=true&hide_border=true&theme=dracula&title_color=c49dff&icon_color=c49dff" />
+<a href="https://github-readme-stats.vercel.app/api?username=julitaras&show_icons=true&hide_border=true&theme=dracula&title_color=c49dff&icon_color=c49dff&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julitaras&show_icons=true&hide_border=true&theme=dracula&title_color=c49dff&icon_color=c49dff&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=julitaras&theme=dracula&title_color=c49dff&icon_color=c49dff&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julitaras&theme=dracula&title_color=c49dff&icon_color=c49dff&layout=compact" />
